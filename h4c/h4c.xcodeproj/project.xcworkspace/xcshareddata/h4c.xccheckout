@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8AFAF717-FE73-425F-85FD-F3681FEF98D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>h4c</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>57AA00EF-AEDE-4493-8AF0-467CD4F274C3</key>
+		<string>https://github.com/MP0w/FoursWrapper.git</string>
+		<key>80E522DE-887A-46EA-A583-0C8481F03878</key>
+		<string>https://github.com/MP0w/h4c.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>h4c/h4c.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>57AA00EF-AEDE-4493-8AF0-467CD4F274C3</key>
+		<string>../../../FoursWrapper</string>
+		<key>80E522DE-887A-46EA-A583-0C8481F03878</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MP0w/h4c.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>80E522DE-887A-46EA-A583-0C8481F03878</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>57AA00EF-AEDE-4493-8AF0-467CD4F274C3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FoursWrapper</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>80E522DE-887A-46EA-A583-0C8481F03878</string>
+			<key>IDESourceControlWCCName</key>
+			<string>h4c</string>
+		</dict>
+	</array>
+</dict>
+</plist>
