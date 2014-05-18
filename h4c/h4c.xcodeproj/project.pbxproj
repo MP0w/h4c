@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DE1A63AE1927A7EF004AA4ED /* DDMenuController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE1A63AD1927A7EF004AA4ED /* DDMenuController.m */; };
 		DE1A63B11927A816004AA4ED /* MPLeftMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE1A63B01927A816004AA4ED /* MPLeftMenuViewController.m */; };
 		DE1A63B41927AA60004AA4ED /* MPNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE1A63B31927AA60004AA4ED /* MPNavigationController.m */; };
 		DE1A63B71927AAC1004AA4ED /* MPLookupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE1A63B61927AAC1004AA4ED /* MPLookupViewController.m */; };
@@ -75,8 +74,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		DE1A63AC1927A7EF004AA4ED /* DDMenuController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDMenuController.h; sourceTree = "<group>"; };
-		DE1A63AD1927A7EF004AA4ED /* DDMenuController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDMenuController.m; sourceTree = "<group>"; };
 		DE1A63AF1927A816004AA4ED /* MPLeftMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPLeftMenuViewController.h; sourceTree = "<group>"; };
 		DE1A63B01927A816004AA4ED /* MPLeftMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MPLeftMenuViewController.m; sourceTree = "<group>"; };
 		DE1A63B21927AA60004AA4ED /* MPNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPNavigationController.h; sourceTree = "<group>"; };
@@ -194,8 +191,6 @@
 		DE1A63B81927AB58004AA4ED /* vc */ = {
 			isa = PBXGroup;
 			children = (
-				DE1A63AC1927A7EF004AA4ED /* DDMenuController.h */,
-				DE1A63AD1927A7EF004AA4ED /* DDMenuController.m */,
 				DE1A63AF1927A816004AA4ED /* MPLeftMenuViewController.h */,
 				DE1A63B01927A816004AA4ED /* MPLeftMenuViewController.m */,
 				DE68CF481926809700D22B92 /* MPViewController.h */,
@@ -538,7 +533,6 @@
 				DEAAB90C1927E37C005B889F /* ARView.m in Sources */,
 				DEAAB8FE1927C351005B889F /* UIFont+berlin.m in Sources */,
 				DE68CF4319267DD900D22B92 /* MPFoursquareVenue.m in Sources */,
-				DE1A63AE1927A7EF004AA4ED /* DDMenuController.m in Sources */,
 				DE1A63B41927AA60004AA4ED /* MPNavigationController.m in Sources */,
 				DEAAB92E19280B02005B889F /* MPSubNumberView.m in Sources */,
 				DEAAB9141927E5A2005B889F /* MPPointDescView.m in Sources */,

@@ -7,7 +7,6 @@
 //
 
 #import "MPAppDelegate.h"
-#import "DDMenuController.h"
 #import "MPLeftMenuViewController.h"
 #import "MPNavigationController.h"
 #import "MPLookupViewController.h"
